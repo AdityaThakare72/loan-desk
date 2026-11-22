@@ -48,7 +48,7 @@ class RiskReview(BaseModel):
     speculative_purpose: bool = Field(description="True only if the purpose is speculative as defined in LP-11 (shares, F&O, crypto, betting...).")
     unclear_purpose: bool = Field(description="True if the purpose is vague or does not fit the product (RG-6).")
     risk_level: Literal["Low", "Medium", "High"] = Field(description="Per the RG table: no flags Low, one Medium, two or more High.")
-    concerns: list[str] = Field(description="Short concerns for the officer, each naming its clause id.")
+    concerns: list[str] = Field(description="Only real problems for the officer, each naming its clause id. Empty list if there are none.")
     questions_for_applicant: list[str] = Field(description="Follow-up questions the officer should ask, from the RG clauses. Can be empty.")
 
 
