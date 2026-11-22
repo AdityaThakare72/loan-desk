@@ -1,0 +1,121 @@
+applicant_id,name,age,city,employment_type,employer,years_in_job,monthly_income,kyc_status,kyc_valid_till
+A1001,Rutuja Bhosale,55,Hyderabad,salaried,Tata Motors,1.0,159300.0,expired,2026-09-30
+A1002,Sneha Iyer,23,Thane,salaried,Cognizant,2.0,117700.0,verified,2027-09-15
+A1003,Isha Kulkarni,42,Thane,salaried,Pune Municipal Corp,6.0,30000.0,verified,2027-09-15
+A1004,Nikhil Deshmukh,53,Hyderabad,salaried,Pune Municipal Corp,0.5,154400.0,verified,2027-02-15
+A1005,Ketan Gupta,53,Hyderabad,salaried,Cognizant,8.0,144400.0,verified,2027-08-15
+A1006,Tanvi Rao,56,Hyderabad,self_employed,Krishna Electronics,3.9,108900.0,verified,2027-07-15
+A1007,Meera Kulkarni,55,Aurangabad,salaried,Pune Municipal Corp,2.0,55700.0,pending,
+A1008,Abhishek Naik,28,Kolhapur,self_employed,Sai Medical Stores,0.7,43300.0,verified,2027-01-15
+A1009,Gauri More,31,Mumbai,self_employed,Deshmukh Constructions,2.6,143400.0,pending,
+A1010,Sneha Patil,29,Pune,salaried,HDFC Life,0.5,95400.0,expired,2026-06-30
+A1011,Priya Rao,33,Satara,salaried,Persistent Systems,3.0,39800.0,verified,2027-02-15
+A1012,Sayali Shinde,53,Nashik,salaried,Thermax,3.0,25200.0,verified,2027-03-15
+A1013,Akash Sharma,39,Hyderabad,salaried,KPIT,8.0,112700.0,verified,2027-08-15
+A1014,Divya Gupta,34,Nagpur,salaried,TCS,2.0,26700.0,verified,2027-05-15
+A1015,Rohan Iyer,39,Nashik,salaried,Thermax,2.0,36400.0,verified,2027-02-15
+A1016,Omkar Joshi,49,Hyderabad,self_employed,Sahyadri Caterers,3.9,24700.0,verified,2027-06-15
+A1017,Gauri Naik,36,Aurangabad,salaried,Tata Motors,1.0,110700.0,verified,2027-05-15
+A1018,Vivaan Gupta,30,Kolhapur,self_employed,Kale Auto Works,7.8,60100.0,verified,2027-09-15
+A1019,Neha Nair,42,Nagpur,salaried,Zensar,2.0,27200.0,verified,2027-07-15
+A1020,Kavya Kale,32,Kolhapur,self_employed,Sai Medical Stores,5.2,40800.0,verified,2027-02-15
+A1021,Mihir Mehta,43,Pune,self_employed,Kale Auto Works,0.7,28700.0,verified,2027-09-15
+A1022,Swati More,45,Nagpur,salaried,Wipro,11.0,116500.0,expired,2026-08-30
+A1023,Varun Shinde,25,Mumbai,salaried,Pune Municipal Corp,4.0,35000.0,verified,2027-01-15
+A1024,Priya Gupta,33,Aurangabad,self_employed,Om Sweets,2.6,138900.0,verified,2027-01-15
+A1025,Meera Reddy,47,Kolhapur,salaried,Zensar,0.5,51500.0,expired,2026-09-30
+A1026,Sameer Bhosale,23,Satara,self_employed,Kale Auto Works,2.0,62300.0,verified,2027-03-15
+A1027,Sayali Gaikwad,42,Kolhapur,salaried,Thermax,11.0,31600.0,verified,2027-08-15
+A1028,Tanvi Nair,33,Kolhapur,salaried,Wipro,6.0,68600.0,verified,2027-04-15
+A1029,Priya Joshi,32,Kolhapur,salaried,Tech Mahindra,2.0,119400.0,verified,2027-08-15
+A1030,Priya Joshi,48,Bengaluru,salaried,Pune Municipal Corp,6.0,77000.0,verified,2027-09-15
+A1031,Meera Mehta,39,Kolhapur,salaried,Infosys,8.0,37400.0,expired,2026-03-30
+A1032,Aarav Joshi,46,Nashik,salaried,Bajaj Auto,3.0,33200.0,verified,2027-04-15
+A1033,Gauri Gaikwad,24,Bengaluru,salaried,Thermax,0.5,62400.0,verified,2027-06-15
+A1034,Abhishek Shah,46,Thane,salaried,Tech Mahindra,11.0,61000.0,verified,2027-04-15
+A1035,Priya Iyer,42,Nashik,salaried,TCS,6.0,116000.0,verified,2027-09-15
+A1036,Sayali Shinde,36,Hyderabad,salaried,Persistent Systems,3.0,27400.0,verified,2027-05-15
+A1037,Nikhil Naik,35,Satara,salaried,Infosys,2.0,40000.0,verified,2027-01-15
+A1038,Vivaan More,32,Nagpur,self_employed,Mauli Agro Services,11.0,90100.0,expired,2026-05-30
+A1039,Vivaan Pawar,26,Hyderabad,salaried,Persistent Systems,4.0,31600.0,verified,2027-02-15
+A1040,Riya Gupta,50,Satara,salaried,KPIT,3.0,122500.0,pending,
+A1041,Isha Patil,33,Hyderabad,salaried,Wipro,8.0,30200.0,verified,2027-05-15
+A1042,Rutuja Chavan,32,Satara,salaried,Infosys,6.0,143300.0,verified,2027-09-15
+A1043,Siddharth Verma,56,Pune,self_employed,Patil Hardware,5.2,170500.0,verified,2027-09-15
+A1044,Prachi Kale,43,Pune,salaried,Infosys,8.0,34500.0,verified,2027-02-15
+A1045,Tanvi Gaikwad,52,Satara,salaried,Wipro,6.0,45000.0,verified,2027-08-15
+A1046,Isha Apte,31,Satara,salaried,Infosys,6.0,52800.0,verified,2027-06-15
+A1047,Kavya Nair,33,Pune,salaried,Persistent Systems,1.0,110100.0,expired,2026-04-30
+A1048,Aditi Shah,30,Pune,salaried,Pune Municipal Corp,0.5,114100.0,verified,2027-04-15
+A1049,Prachi Pawar,25,Hyderabad,salaried,Thermax,1.0,124400.0,expired,2026-07-30
+A1050,Gauri Sharma,51,Thane,salaried,Tech Mahindra,2.0,35800.0,verified,2027-03-15
+A1051,Ananya Pawar,38,Bengaluru,salaried,HDFC Life,2.0,122900.0,verified,2027-02-15
+A1052,Mihir More,28,Satara,self_employed,Sahyadri Caterers,3.9,28700.0,verified,2027-03-15
+A1053,Gauri Naik,29,Bengaluru,salaried,TCS,2.0,48000.0,verified,2027-02-15
+A1054,Ananya Rao,23,Mumbai,salaried,Maharashtra State Govt,1.0,115100.0,verified,2027-07-15
+A1055,Saurabh Desai,33,Thane,self_employed,Kale Auto Works,0.7,33700.0,verified,2027-06-15
+A1056,Gauri More,47,Pune,salaried,Cognizant,11.0,54300.0,verified,2027-04-15
+A1057,Kavya Gaikwad,26,Hyderabad,salaried,Pune Municipal Corp,5.0,59600.0,verified,2027-09-15
+A1058,Vivaan Joshi,46,Nagpur,salaried,Persistent Systems,8.0,46800.0,verified,2027-03-15
+A1059,Sneha Chavan,29,Hyderabad,salaried,Pune Municipal Corp,1.0,30500.0,verified,2027-02-15
+A1060,Omkar Kulkarni,35,Kolhapur,salaried,Persistent Systems,6.0,167200.0,verified,2027-03-15
+A1061,Kunal Rao,31,Bengaluru,self_employed,Shree Ganesh Traders,10.0,29000.0,verified,2027-08-15
+A1062,Harsh Iyer,32,Mumbai,salaried,Tata Motors,8.0,53000.0,verified,2027-02-15
+A1063,Komal Kale,56,Hyderabad,self_employed,Krishna Electronics,5.2,39200.0,verified,2027-05-15
+A1064,Tejas Bhosale,42,Satara,self_employed,Joshi Tutorials,3.9,53800.0,verified,2027-06-15
+A1065,Riya Verma,29,Kolhapur,salaried,Kirloskar Brothers,8.0,76000.0,verified,2027-07-15
+A1066,Priya Reddy,24,Aurangabad,salaried,Tata Motors,0.5,56900.0,verified,2027-05-15
+A1067,Pranav Reddy,52,Nagpur,salaried,TCS,0.5,34200.0,verified,2027-02-15
+A1068,Riya Jadhav,24,Pune,self_employed,Deshmukh Constructions,3.0,55100.0,verified,2027-05-15
+A1069,Sameer Patil,52,Aurangabad,salaried,Zensar,11.0,94000.0,verified,2027-02-15
+A1070,Kunal Iyer,41,Thane,self_employed,Patil Hardware,3.9,30300.0,verified,2027-01-15
+A1071,Sneha Shinde,30,Nashik,salaried,Wipro,3.0,137700.0,verified,2027-04-15
+A1072,Saurabh Gupta,53,Pune,self_employed,Mauli Agro Services,2.6,36100.0,verified,2027-06-15
+A1073,Kavya Kulkarni,29,Bengaluru,salaried,Bajaj Auto,4.0,44000.0,pending,
+A1074,Tanvi Shah,24,Thane,salaried,Thermax,3.0,64600.0,verified,2027-06-15
+A1075,Tejas Gupta,50,Aurangabad,salaried,HDFC Life,6.0,28500.0,expired,2026-08-30
+A1076,Sneha Joshi,26,Aurangabad,self_employed,Patil Hardware,5.0,27500.0,verified,2027-04-15
+A1077,Nikhil Jadhav,56,Satara,salaried,Tech Mahindra,8.0,108700.0,expired,2026-04-30
+A1078,Priya Gupta,54,Mumbai,salaried,Maharashtra State Govt,3.0,60100.0,verified,2027-04-15
+A1079,Saurabh Desai,52,Mumbai,salaried,Thermax,4.0,100200.0,expired,2026-03-30
+A1080,Rohan Shah,28,Nashik,salaried,Persistent Systems,4.0,34400.0,verified,2027-06-15
+A1081,Nikhil Kale,40,Aurangabad,salaried,Tata Motors,1.0,106700.0,verified,2027-01-15
+A1082,Rohan Patil,25,Satara,self_employed,Patil Hardware,0.7,72000.0,verified,2027-08-15
+A1083,Sayali Desai,25,Mumbai,salaried,Pune Municipal Corp,4.0,56700.0,verified,2027-07-15
+A1084,Ketan Patil,38,Nagpur,salaried,Infosys,0.5,144000.0,verified,2027-01-15
+A1085,Siddharth Shinde,44,Thane,salaried,KPIT,3.0,64200.0,expired,2026-03-30
+A1086,Tejas Jadhav,34,Bengaluru,self_employed,Shree Ganesh Traders,1.3,36100.0,verified,2027-03-15
+A1087,Meera Sharma,29,Kolhapur,self_employed,Om Sweets,0.7,63000.0,verified,2027-09-15
+A1088,Tejas Kale,56,Hyderabad,self_employed,Patil Hardware,7.8,43600.0,verified,2027-03-15
+A1089,Sameer Shah,39,Nashik,salaried,Kirloskar Brothers,8.0,49700.0,verified,2027-01-15
+A1090,Aditi Desai,24,Pune,salaried,Zensar,2.0,51400.0,verified,2027-06-15
+A1091,Prachi Deshmukh,51,Mumbai,salaried,Persistent Systems,6.0,26300.0,verified,2027-04-15
+A1092,Nikhil Joshi,31,Satara,salaried,Tata Motors,0.5,109900.0,verified,2027-02-15
+A1093,Priya Jadhav,31,Aurangabad,salaried,Persistent Systems,8.0,46600.0,verified,2027-03-15
+A1094,Meera Kulkarni,26,Mumbai,salaried,Wipro,5.0,80600.0,pending,
+A1095,Yash Joshi,49,Thane,salaried,TCS,1.0,135600.0,verified,2027-01-15
+A1096,Varun Joshi,30,Hyderabad,salaried,Persistent Systems,2.0,31000.0,verified,2027-05-15
+A1097,Nikhil Pawar,27,Nashik,salaried,Persistent Systems,2.0,44700.0,verified,2027-09-15
+A1098,Neha Shah,23,Kolhapur,salaried,Tech Mahindra,2.0,66400.0,verified,2027-03-15
+A1099,Aditya Kale,54,Bengaluru,salaried,TCS,11.0,53000.0,verified,2027-04-15
+A1100,Harsh Jadhav,49,Hyderabad,salaried,KPIT,4.0,26600.0,verified,2027-03-15
+A1101,Aditya Gaikwad,41,Bengaluru,salaried,Wipro,4.0,53400.0,expired,2026-03-30
+A1102,Tanvi Gupta,47,Hyderabad,salaried,Wipro,4.0,62600.0,verified,2027-01-15
+A1103,Komal Mehta,51,Mumbai,salaried,TCS,3.0,88700.0,verified,2027-01-15
+A1104,Isha Bhosale,23,Nashik,salaried,Kirloskar Brothers,1.0,99500.0,verified,2027-09-15
+A1105,Aditi Rao,32,Aurangabad,self_employed,Deshmukh Constructions,3.9,61300.0,verified,2027-07-15
+A1106,Saurabh More,28,Bengaluru,salaried,Thermax,3.0,75400.0,expired,2026-09-30
+A1107,Isha Desai,25,Thane,self_employed,Mauli Agro Services,1.3,42900.0,verified,2027-07-15
+A1108,Nikhil Chavan,54,Satara,salaried,Bajaj Auto,0.5,31800.0,expired,2026-04-30
+A1109,Ananya Shinde,53,Thane,salaried,Maharashtra State Govt,8.0,32700.0,verified,2027-01-15
+A1110,Prachi More,41,Kolhapur,self_employed,Shree Ganesh Traders,10.4,77200.0,pending,
+A1111,Pooja Reddy,23,Pune,salaried,Tech Mahindra,2.0,30500.0,verified,2027-01-15
+A1112,Saurabh Kale,23,Aurangabad,salaried,Tata Motors,2.0,29300.0,verified,2027-02-15
+A1113,Divya Apte,31,Pune,salaried,Maharashtra State Govt,2.0,29200.0,verified,2027-03-15
+A1114,Yash Chavan,27,Thane,salaried,Thermax,6.0,52000.0,verified,2027-08-15
+A1115,Abhishek Bhosale,42,Hyderabad,salaried,Infosys,0.5,61900.0,verified,2027-07-15
+A1116,Varun Patil,43,Kolhapur,salaried,Tata Motors,8.0,78100.0,verified,2027-02-15
+A1117,Mihir Kulkarni,47,Bengaluru,salaried,Kirloskar Brothers,4.0,159700.0,verified,2027-02-15
+A1118,Ketan Apte,56,Aurangabad,self_employed,Patil Hardware,1.3,90400.0,verified,2027-09-15
+A1119,Abhishek Jadhav,50,Satara,self_employed,Joshi Tutorials,3.9,68400.0,verified,2027-05-15
+A1120,Shruti More,54,Mumbai,salaried,Wipro,4.0,43300.0,verified,2027-03-15

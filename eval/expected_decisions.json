@@ -1,0 +1,779 @@
+[
+ {
+  "application_id": "LA-26001",
+  "applicant_id": "A1091",
+  "product": "car",
+  "amount": 400000,
+  "tenure_months": 60,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-5",
+   "LP-9"
+  ],
+  "foir": 0.5
+ },
+ {
+  "application_id": "LA-26002",
+  "applicant_id": "A1120",
+  "product": "personal",
+  "amount": 100000,
+  "tenure_months": 36,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-3"
+  ],
+  "foir": 0.383
+ },
+ {
+  "application_id": "LA-26003",
+  "applicant_id": "A1026",
+  "product": "personal",
+  "amount": 430000.0,
+  "tenure_months": 24,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-3"
+  ],
+  "foir": 0.328
+ },
+ {
+  "application_id": "LA-26004",
+  "applicant_id": "A1042",
+  "product": "car",
+  "amount": 2340000.0,
+  "tenure_months": 60,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [],
+  "foir": 0.341
+ },
+ {
+  "application_id": "LA-26005",
+  "applicant_id": "A1110",
+  "product": "home",
+  "amount": 2200000.0,
+  "tenure_months": 180,
+  "speculative": false,
+  "expected": "REFER",
+  "codes": [
+   "RG-2",
+   "KYC-2"
+  ],
+  "foir": 0.289
+ },
+ {
+  "application_id": "LA-26006",
+  "applicant_id": "A1073",
+  "product": "car",
+  "amount": 740000.0,
+  "tenure_months": 60,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-9"
+  ],
+  "foir": 0.615
+ },
+ {
+  "application_id": "LA-26007",
+  "applicant_id": "A1035",
+  "product": "car",
+  "amount": 2050000.0,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [
+   "RG-1"
+  ],
+  "foir": 0.442
+ },
+ {
+  "application_id": "LA-26008",
+  "applicant_id": "A1039",
+  "product": "personal",
+  "amount": 570000.0,
+  "tenure_months": 60,
+  "speculative": true,
+  "expected": "REJECT",
+  "codes": [
+   "LP-4",
+   "LP-9",
+   "LP-11"
+  ],
+  "foir": 0.553
+ },
+ {
+  "application_id": "LA-26009",
+  "applicant_id": "A1061",
+  "product": "personal",
+  "amount": 100000,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-3"
+  ],
+  "foir": 0.341
+ },
+ {
+  "application_id": "LA-26010",
+  "applicant_id": "A1056",
+  "product": "personal",
+  "amount": 650000.0,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [
+   "RG-2"
+  ],
+  "foir": 0.312
+ },
+ {
+  "application_id": "LA-26011",
+  "applicant_id": "A1118",
+  "product": "personal",
+  "amount": 660000.0,
+  "tenure_months": 24,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [
+   "RG-3"
+  ],
+  "foir": 0.399
+ },
+ {
+  "application_id": "LA-26012",
+  "applicant_id": "A1111",
+  "product": "personal",
+  "amount": 100000.0,
+  "tenure_months": 36,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-3"
+  ],
+  "foir": 0.366
+ },
+ {
+  "application_id": "LA-26013",
+  "applicant_id": "A1075",
+  "product": "personal",
+  "amount": 250000.0,
+  "tenure_months": 36,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-3"
+  ],
+  "foir": 0.429
+ },
+ {
+  "application_id": "LA-26014",
+  "applicant_id": "A1007",
+  "product": "home",
+  "amount": 2000000,
+  "tenure_months": 120,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-6",
+   "LP-9"
+  ],
+  "foir": 0.55
+ },
+ {
+  "application_id": "LA-26015",
+  "applicant_id": "A1043",
+  "product": "personal",
+  "amount": 1200000.0,
+  "tenure_months": 72,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-7"
+  ],
+  "foir": 0.136
+ },
+ {
+  "application_id": "LA-26016",
+  "applicant_id": "A1078",
+  "product": "car",
+  "amount": 1100000.0,
+  "tenure_months": 72,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [
+   "RG-2"
+  ],
+  "foir": 0.402
+ },
+ {
+  "application_id": "LA-26017",
+  "applicant_id": "A1109",
+  "product": "personal",
+  "amount": 410000.0,
+  "tenure_months": 36,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [
+   "RG-1"
+  ],
+  "foir": 0.422
+ },
+ {
+  "application_id": "LA-26018",
+  "applicant_id": "A1099",
+  "product": "personal",
+  "amount": 210000.0,
+  "tenure_months": 12,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [],
+  "foir": 0.354
+ },
+ {
+  "application_id": "LA-26019",
+  "applicant_id": "A1019",
+  "product": "personal",
+  "amount": 200000.0,
+  "tenure_months": 72,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-7"
+  ],
+  "foir": 0.148
+ },
+ {
+  "application_id": "LA-26020",
+  "applicant_id": "A1028",
+  "product": "personal",
+  "amount": 370000.0,
+  "tenure_months": 24,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [
+   "RG-4"
+  ],
+  "foir": 0.456
+ },
+ {
+  "application_id": "LA-26021",
+  "applicant_id": "A1012",
+  "product": "car",
+  "amount": 510000.0,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-5",
+   "LP-9"
+  ],
+  "foir": 0.506
+ },
+ {
+  "application_id": "LA-26022",
+  "applicant_id": "A1010",
+  "product": "car",
+  "amount": 1490000.0,
+  "tenure_months": 84,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-3"
+  ],
+  "foir": 0.259
+ },
+ {
+  "application_id": "LA-26023",
+  "applicant_id": "A1023",
+  "product": "personal",
+  "amount": 500000.0,
+  "tenure_months": 48,
+  "speculative": true,
+  "expected": "REJECT",
+  "codes": [
+   "LP-3",
+   "LP-11"
+  ],
+  "foir": 0.466
+ },
+ {
+  "application_id": "LA-26024",
+  "applicant_id": "A1040",
+  "product": "personal",
+  "amount": 1560000.0,
+  "tenure_months": 60,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-8"
+  ],
+  "foir": 0.28
+ },
+ {
+  "application_id": "LA-26025",
+  "applicant_id": "A1031",
+  "product": "car",
+  "amount": 400000,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "REFER",
+  "codes": [
+   "KYC-2"
+  ],
+  "foir": 0.42
+ },
+ {
+  "application_id": "LA-26026",
+  "applicant_id": "A1015",
+  "product": "personal",
+  "amount": 180000.0,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [
+   "RG-2"
+  ],
+  "foir": 0.3
+ },
+ {
+  "application_id": "LA-26027",
+  "applicant_id": "A1062",
+  "product": "car",
+  "amount": 430000.0,
+  "tenure_months": 72,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [
+   "RG-1"
+  ],
+  "foir": 0.266
+ },
+ {
+  "application_id": "LA-26028",
+  "applicant_id": "A1107",
+  "product": "car",
+  "amount": 400000,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "REFER",
+  "codes": [
+   "RG-1",
+   "RG-3"
+  ],
+  "foir": 0.394
+ },
+ {
+  "application_id": "LA-26029",
+  "applicant_id": "A1093",
+  "product": "personal",
+  "amount": 120000.0,
+  "tenure_months": 24,
+  "speculative": true,
+  "expected": "REJECT",
+  "codes": [
+   "LP-3",
+   "LP-11"
+  ],
+  "foir": 0.32
+ },
+ {
+  "application_id": "LA-26030",
+  "applicant_id": "A1114",
+  "product": "personal",
+  "amount": 530000.0,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [],
+  "foir": 0.418
+ },
+ {
+  "application_id": "LA-26031",
+  "applicant_id": "A1054",
+  "product": "personal",
+  "amount": 210000.0,
+  "tenure_months": 36,
+  "speculative": true,
+  "expected": "REJECT",
+  "codes": [
+   "LP-11"
+  ],
+  "foir": 0.41
+ },
+ {
+  "application_id": "LA-26032",
+  "applicant_id": "A1036",
+  "product": "car",
+  "amount": 400000,
+  "tenure_months": 72,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-5"
+  ],
+  "foir": 0.464
+ },
+ {
+  "application_id": "LA-26033",
+  "applicant_id": "A1080",
+  "product": "personal",
+  "amount": 100000,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [],
+  "foir": 0.381
+ },
+ {
+  "application_id": "LA-26034",
+  "applicant_id": "A1022",
+  "product": "home",
+  "amount": 5900000.0,
+  "tenure_months": 120,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-9"
+  ],
+  "foir": 0.745
+ },
+ {
+  "application_id": "LA-26035",
+  "applicant_id": "A1058",
+  "product": "personal",
+  "amount": 300000.0,
+  "tenure_months": 12,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-4",
+   "LP-9"
+  ],
+  "foir": 0.662
+ },
+ {
+  "application_id": "LA-26036",
+  "applicant_id": "A1117",
+  "product": "home",
+  "amount": 4400000.0,
+  "tenure_months": 120,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [],
+  "foir": 0.342
+ },
+ {
+  "application_id": "LA-26037",
+  "applicant_id": "A1014",
+  "product": "personal",
+  "amount": 170000.0,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [],
+  "foir": 0.278
+ },
+ {
+  "application_id": "LA-26038",
+  "applicant_id": "A1004",
+  "product": "personal",
+  "amount": 1560000.0,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-8"
+  ],
+  "foir": 0.361
+ },
+ {
+  "application_id": "LA-26039",
+  "applicant_id": "A1046",
+  "product": "car",
+  "amount": 580000.0,
+  "tenure_months": 36,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-4"
+  ],
+  "foir": 0.459
+ },
+ {
+  "application_id": "LA-26040",
+  "applicant_id": "A1011",
+  "product": "personal",
+  "amount": 1180000.0,
+  "tenure_months": 60,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-8",
+   "LP-9"
+  ],
+  "foir": 0.72
+ },
+ {
+  "application_id": "LA-26041",
+  "applicant_id": "A1082",
+  "product": "personal",
+  "amount": 260000.0,
+  "tenure_months": 24,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [
+   "RG-3"
+  ],
+  "foir": 0.379
+ },
+ {
+  "application_id": "LA-26042",
+  "applicant_id": "A1006",
+  "product": "home",
+  "amount": 2000000,
+  "tenure_months": 120,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-6"
+  ],
+  "foir": 0.382
+ },
+ {
+  "application_id": "LA-26043",
+  "applicant_id": "A1037",
+  "product": "personal",
+  "amount": 110000.0,
+  "tenure_months": 12,
+  "speculative": true,
+  "expected": "REJECT",
+  "codes": [
+   "LP-11"
+  ],
+  "foir": 0.466
+ },
+ {
+  "application_id": "LA-26044",
+  "applicant_id": "A1113",
+  "product": "personal",
+  "amount": 140000.0,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [],
+  "foir": 0.231
+ },
+ {
+  "application_id": "LA-26045",
+  "applicant_id": "A1001",
+  "product": "personal",
+  "amount": 820000.0,
+  "tenure_months": 72,
+  "speculative": true,
+  "expected": "REJECT",
+  "codes": [
+   "LP-3",
+   "LP-6",
+   "LP-7",
+   "LP-11"
+  ],
+  "foir": 0.343
+ },
+ {
+  "application_id": "LA-26046",
+  "applicant_id": "A1100",
+  "product": "personal",
+  "amount": 510000.0,
+  "tenure_months": 36,
+  "speculative": true,
+  "expected": "REJECT",
+  "codes": [
+   "LP-9",
+   "LP-11"
+  ],
+  "foir": 0.646
+ },
+ {
+  "application_id": "LA-26047",
+  "applicant_id": "A1095",
+  "product": "home",
+  "amount": 4700000.0,
+  "tenure_months": 120,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [],
+  "foir": 0.43
+ },
+ {
+  "application_id": "LA-26048",
+  "applicant_id": "A1119",
+  "product": "personal",
+  "amount": 570000.0,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [],
+  "foir": 0.224
+ },
+ {
+  "application_id": "LA-26049",
+  "applicant_id": "A1018",
+  "product": "personal",
+  "amount": 320000.0,
+  "tenure_months": 12,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-4",
+   "LP-9"
+  ],
+  "foir": 0.472
+ },
+ {
+  "application_id": "LA-26050",
+  "applicant_id": "A1094",
+  "product": "car",
+  "amount": 400000,
+  "tenure_months": 36,
+  "speculative": false,
+  "expected": "REFER",
+  "codes": [
+   "KYC-2"
+  ],
+  "foir": 0.378
+ },
+ {
+  "application_id": "LA-26051",
+  "applicant_id": "A1027",
+  "product": "personal",
+  "amount": 240000.0,
+  "tenure_months": 24,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-4"
+  ],
+  "foir": 0.356
+ },
+ {
+  "application_id": "LA-26052",
+  "applicant_id": "A1013",
+  "product": "personal",
+  "amount": 610000.0,
+  "tenure_months": 36,
+  "speculative": false,
+  "expected": "REFER",
+  "codes": [
+   "RG-1",
+   "RG-4"
+  ],
+  "foir": 0.462
+ },
+ {
+  "application_id": "LA-26053",
+  "applicant_id": "A1090",
+  "product": "car",
+  "amount": 510000.0,
+  "tenure_months": 48,
+  "speculative": false,
+  "expected": "REFER",
+  "codes": [
+   "RG-1",
+   "RG-2"
+  ],
+  "foir": 0.248
+ },
+ {
+  "application_id": "LA-26054",
+  "applicant_id": "A1097",
+  "product": "personal",
+  "amount": 140000.0,
+  "tenure_months": 12,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [
+   "RG-1"
+  ],
+  "foir": 0.278
+ },
+ {
+  "application_id": "LA-26055",
+  "applicant_id": "A1029",
+  "product": "car",
+  "amount": 2340000.0,
+  "tenure_months": 72,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [],
+  "foir": 0.356
+ },
+ {
+  "application_id": "LA-26056",
+  "applicant_id": "A1032",
+  "product": "personal",
+  "amount": 140000.0,
+  "tenure_months": 36,
+  "speculative": true,
+  "expected": "REJECT",
+  "codes": [
+   "LP-11"
+  ],
+  "foir": 0.467
+ },
+ {
+  "application_id": "LA-26057",
+  "applicant_id": "A1005",
+  "product": "personal",
+  "amount": 490000.0,
+  "tenure_months": 12,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [
+   "RG-2"
+  ],
+  "foir": 0.301
+ },
+ {
+  "application_id": "LA-26058",
+  "applicant_id": "A1030",
+  "product": "car",
+  "amount": 970000.0,
+  "tenure_months": 60,
+  "speculative": false,
+  "expected": "APPROVE",
+  "codes": [],
+  "foir": 0.359
+ },
+ {
+  "application_id": "LA-26059",
+  "applicant_id": "A1034",
+  "product": "home",
+  "amount": 2000000,
+  "tenure_months": 120,
+  "speculative": false,
+  "expected": "REJECT",
+  "codes": [
+   "LP-9"
+  ],
+  "foir": 0.546
+ },
+ {
+  "application_id": "LA-26060",
+  "applicant_id": "A1108",
+  "product": "personal",
+  "amount": 100000,
+  "tenure_months": 12,
+  "speculative": false,
+  "expected": "REFER",
+  "codes": [
+   "RG-3",
+   "KYC-2"
+  ],
+  "foir": 0.335
+ }
+]
